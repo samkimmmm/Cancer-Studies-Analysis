@@ -4,7 +4,7 @@
 In this assignment, I conducted a comprehensive analysis for a clinical study focusing on drug performance for tumors found in mice. The analysis involved data preparation, summary statistics generation, creation of various plots, and exploration of the correlation between mouse weight and tumor volume.
 
 # Technologies
-* MatPlotLib
+* Matplotlib
 * Pandas
 * SciPy
 
