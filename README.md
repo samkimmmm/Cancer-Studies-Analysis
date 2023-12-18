@@ -3,6 +3,11 @@
 # Overview
 In this assignment, I conducted a comprehensive analysis for a clinical study focusing on drug performance for tumors found in mice. The analysis involved data preparation, summary statistics generation, creation of various plots, and exploration of the correlation between mouse weight and tumor volume.
 
+# Technologies
+* MatPlotLib
+* Pandas
+* SciPy
+
 # Prepare the Data
 After merging the "mouse_metadata" and "study_results" DataFrames, I removed duplicate timepoints (e.g., g989) to create a cleaned DataFrame. The resulting DataFrame serves as the foundation for subsequent analyses.
 <img width="873" alt="Screenshot 2023-12-18 at 2 43 35 PM" src="https://github.com/samkimmmm/module5_challenge/assets/135805393/da4b157d-af7b-4e9a-a1c9-5498ed5e37b5">
